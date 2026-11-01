@@ -1,0 +1,11 @@
+beautifulsoup4
+chromadb
+faiss-cpu
+ipykernel
+langchain
+langchain-community
+langchain-openai
+langchain-text-splitters
+notebook
+pypdf
+python-dotenv
